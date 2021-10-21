@@ -2629,10 +2629,13 @@
 		border-top: 0;
 		color: #c0c0c0;
 		overflow: hidden;
-		padding: 4em 0 2em 0;
+		padding: 1em 0 1em 0;
+		text-align: center;
+
 	}
 
 		#footer .copyright {
+			margin-top: 20px;
 			line-height: 1em;
 			list-style: none;
 			padding: 0;
